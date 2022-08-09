@@ -1,4 +1,4 @@
-# Create an environnement ready to run Symfony applications
+# Create a ready to run Symfony applications environnement
 
 ## In the vhosts/vhosts.conf file change 'project' for your application's name
 
